@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/osyo-manga/gem-tstruct.svg?branch=master)](https://travis-ci.org/osyo-manga/gem-tstruct)
+
 # TStruct
 
 `TStruct` is type checked `Struct`

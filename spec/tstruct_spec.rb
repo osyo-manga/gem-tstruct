@@ -1,6 +1,6 @@
 RSpec.describe TStruct do
   it "has a version number" do
-    expect(Tstruct::VERSION).not_to be nil
+    expect(TStruct::VERSION).not_to be nil
   end
 
   describe ".new" do
